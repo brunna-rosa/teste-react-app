@@ -39,7 +39,7 @@ export default function FormScreen(){
     return (
         <Container>
             <h1>Meu nome é {name}!</h1>
-            <h1>Tenho {age} anos e quero ser um Blinger!</h1>
+            <h1>Tenho {age} anos!</h1>
             
             <TextField 
                 label="Nome" 
